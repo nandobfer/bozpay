@@ -11,12 +11,12 @@ const Payapp: React.FC = () => {
     const [error, setError] = useState(false)
 
     const data = {
-        sandbox: params.get('sandbox') == 'yes' ? true : false,
-        store: params.get('store') || "",
-        id: params.get('id') || "",
-        pagseguroTokenSandbox: params.get('pstk') || "",
-        pagseguroToken: params.get('pstksb') || "",
-        pk: params.get('pk') || "",
+        sandbox: params.get("sandbox") == "yes" ? true : false,
+        store: params.get("store") || "",
+        id: params.get("id") || "",
+        pagseguroTokenSandbox: params.get("pstksb") || "",
+        pagseguroToken: params.get("pstk") || "",
+        pk: params.get("pk") || "",
     }
 
     useEffect(() => {
