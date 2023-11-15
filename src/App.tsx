@@ -1,7 +1,6 @@
 import { BozPay } from "boz.pay.component"
 import { useEffect, useState } from "react"
 import { BrowserRouter, Route, Routes } from "react-router-dom"
-import { getParams } from "./tools/get_param"
 
 const Payapp: React.FC = () => {
 
