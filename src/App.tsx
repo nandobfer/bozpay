@@ -7,7 +7,7 @@ const Payapp: React.FC = () => {
     const search = window.location.search; // Gets the query string
     const params = new URLSearchParams(search);
     
-    const [error, setError] = useState(false)
+    const [_, setError] = useState(false)
 
     const data = {
         sandbox: params.get("sandbox") == "yes" ? true : false,

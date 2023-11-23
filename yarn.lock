@@ -779,10 +779,10 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
-boz.pay.component@^1.3.81:
-  version "1.3.81"
-  resolved "https://registry.yarnpkg.com/boz.pay.component/-/boz.pay.component-1.3.81.tgz#adddb3b36bfbe37f3982eb23837c887aa3088848"
-  integrity sha512-CGxfPwLHOjT6pJpksxaxnzvTDHoI3p1L/vFRNlp3D70wt24QDVyACHZl4zeoUfsFDy1vkTS4NjyoB+4dnZcRnA==
+boz.pay.component@^1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/boz.pay.component/-/boz.pay.component-1.4.2.tgz#5abfb2802e737786851456f0c544cb60be2ef17d"
+  integrity sha512-S3LnRO6Q2g6QDRVHcXiy2JCeyzCcWy6501PXUhFMXEo9kQ9g3YgHWDW3699NhnvhES5LY9+NVwP83M6/eBQNqg==
   dependencies:
     "@emotion/react" "^11.11.1"
     "@emotion/styled" "^11.11.0"
